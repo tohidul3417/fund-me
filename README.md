@@ -1,6 +1,6 @@
 # FundMe 💰
 
-A simple crowdfunding smart contract using Solidity and Chainlink price feeds.
+A Solidity-based crowdfunding smart contract built as part of the **Solidity Smart Contract Development** course on **Cyfrin Updraft**.
 
 ## Features
 - Accepts ETH deposits with a minimum of 5 USD (converted using Chainlink).
